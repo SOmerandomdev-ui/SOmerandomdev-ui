@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi there. I'm Dion, a second year data scientist at uoft interested in Ai and machine learning. I am always looking for a new opportunity to make a cool new project or push past my comfort zone and try something completely new, whether it be learning a new concept, language, or framework.<br><br>I currently use typescript, react, and tensorflow.js in my projects and try to build things that display the new things that I have learned and also use it as an opportunity to challenge myself and learn something new.<br><br>I believe that learning is something that should be done lifelong whether it be random cool facts, a new field of study, or an interest you have
+Hi there. I'm Dion, a second year data scientist at uoft interested in Ai and machine learning. I am always looking for a new opportunity to make a cool new project or push past my comfort zone and try something completely new, whether it be learning a new concept, language, or framework.<br><br>I currently use typescript, react, and tensorflow.js in my projects and try to build things that display the new things that I have learned and also use it as an opportunity to challenge myself and learn something new.<br><br>I believe that learning is something that should be done at any age whether it be random cool facts, a new field of study, or an interest you have. Everyone should aspire to be a life-long learner.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DionMachado](https://www.linkedin.com/in/dion-machado-3b46723a5/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:macdion2007@hotmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/DionMachado](https://www.linkedin.com/in/dion-machado-3b46723a5/)) [![email](https://img.shields.io/badge/Outlook-%23007ACC.svg?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:macdion2007@hotmail.com)  [![Portfolio](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](mailto:macdion2007@hotmail.com)
 
 # 💻 Tech Stack:
 Languages
