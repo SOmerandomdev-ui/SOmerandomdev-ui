@@ -3,7 +3,7 @@ Hi there. I'm Dion, a second year data scientist at uoft interested in Ai and ma
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/DionMachado](https://www.linkedin.com/in/dion-machado-3b46723a5/)) [![email](https://img.shields.io/badge/Outlook-%23007ACC.svg?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:macdion2007@hotmail.com)  [![Portfolio](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](mailto:macdion2007@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/DionMachado](https://www.linkedin.com/in/dion-machado-3b46723a5/)) [![email](https://img.shields.io/badge/Outlook-%23007ACC.svg?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:macdion2007@hotmail.com)  [![Portfolio](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dionmachado-portfolio.vercel.app/)
 
 # 💻 Tech Stack:
 Languages
